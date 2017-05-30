@@ -1,2 +1,2 @@
 # studio
-Angualr 2 -> 4
+Angualar 2 -> 4
