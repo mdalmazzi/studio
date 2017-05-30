@@ -1,2 +1,3 @@
 # studio
-Angualar 2 -> 4
+Angular 2 -> 4
+Lateral Branches
